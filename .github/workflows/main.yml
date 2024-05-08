@@ -15,7 +15,7 @@ permissions:
 
 env:
   GIT_USER_EMAIL: tientran130290@gmail.com
-  GIT_USER_NAME: moonsg
+  GIT_USER_NAME: moonsg1990
 jobs:
   ethereum_auto_commit:
     runs-on: ubuntu-latest
